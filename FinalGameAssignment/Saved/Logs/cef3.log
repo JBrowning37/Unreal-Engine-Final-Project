@@ -1,0 +1,27 @@
+[0712/003504.356:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[0712/003504.356:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0712/003504.356:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0712/003504.356:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0712/003504.356:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0712/003504.356:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[0712/003504.357:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[0712/003510.720:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0712/003510.720:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0712/003510.892:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0712/003510.892:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0712/003510.906:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 121
+[0712/083746.379:ERROR:database.cc(1632)] Cookie sqlite error 5, errno 33: database is locked, sql: DELETE FROM cookies WHERE is_persistent != 1
+[0712/083746.386:WARNING:sqlite_persistent_cookie_store.cc(1343)] Unable to delete session cookies.
+[0712/083748.625:ERROR:cache_util_win.cc(21)] Unable to move the cache: Access is denied. (0x5)
+[0712/083748.625:ERROR:cache_util.cc(139)] Unable to move cache folder C:/Users/Sunny/OneDrive/Documents/GitHub/Tech-Academy-Projects/UnrealEngineProjects/FinalGameAssignment/Saved/webcache_4147\Cache to C:/Users/Sunny/OneDrive/Documents/GitHub/Tech-Academy-Projects/UnrealEngineProjects/FinalGameAssignment/Saved/webcache_4147\old_Cache_000
+[0712/083748.625:ERROR:disk_cache.cc(184)] Unable to create cache
+[0712/083805.680:WARNING:value_store_frontend.cc(44)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0712/084819.083:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0712/084819.165:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0712/084819.231:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0712/084819.231:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}

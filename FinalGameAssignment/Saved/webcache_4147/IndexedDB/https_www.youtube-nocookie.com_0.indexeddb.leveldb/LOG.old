@@ -1,0 +1,5 @@
+2023/07/12-00:35:11.408 554c Reusing MANIFEST C:/Users/Sunny/OneDrive/Documents/GitHub/Tech-Academy-Projects/UnrealEngineProjects/FinalGameAssignment/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-01:10:11.077 57c0 Level-0 table #5: started
+2023/07/12-01:10:11.128 57c0 Level-0 table #5: 1211 bytes OK
+2023/07/12-01:10:11.131 57c0 Delete type=0 #3
+2023/07/12-01:10:11.131 57c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

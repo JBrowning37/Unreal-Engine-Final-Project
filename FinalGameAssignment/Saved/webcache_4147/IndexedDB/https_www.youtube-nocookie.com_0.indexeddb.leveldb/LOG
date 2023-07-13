@@ -1,0 +1,8 @@
+2023/07/12-08:48:19.546 1af0 Reusing MANIFEST C:/Users/Sunny/OneDrive/Documents/GitHub/Tech-Academy-Projects/UnrealEngineProjects/FinalGameAssignment/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/12-08:48:19.547 1af0 Recovering log #4
+2023/07/12-08:48:19.547 1af0 Reusing old log C:/Users/Sunny/OneDrive/Documents/GitHub/Tech-Academy-Projects/UnrealEngineProjects/FinalGameAssignment/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/07/12-09:00:38.629 1ad0 Level-0 table #8: started
+2023/07/12-09:00:38.629 1ad0 Level-0 table #8: 0 bytes OK
+2023/07/12-09:00:38.630 1ad0 Delete type=0 #4
+2023/07/12-09:00:38.631 1ad0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/07/12-09:00:38.631 1ad0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
